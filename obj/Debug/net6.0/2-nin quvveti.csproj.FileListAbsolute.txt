@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\2-nin quvveti\bin\Debug\net6.0\2-nin quvveti.exe
+C:\Users\user\source\repos\2-nin quvveti\bin\Debug\net6.0\2-nin quvveti.deps.json
+C:\Users\user\source\repos\2-nin quvveti\bin\Debug\net6.0\2-nin quvveti.runtimeconfig.json
+C:\Users\user\source\repos\2-nin quvveti\bin\Debug\net6.0\2-nin quvveti.dll
+C:\Users\user\source\repos\2-nin quvveti\bin\Debug\net6.0\2-nin quvveti.pdb
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.AssemblyInfo.cs
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.dll
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\refint\2-nin quvveti.dll
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.pdb
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\2-nin quvveti.genruntimeconfig.cache
+C:\Users\user\source\repos\2-nin quvveti\obj\Debug\net6.0\ref\2-nin quvveti.dll
